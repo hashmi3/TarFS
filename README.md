@@ -7,7 +7,7 @@ Libfuse 3 must be installed
 ## HOW TO MOUNT
 Clone this repository.
 
-run " git clone git@github.com:7mh/readtar.git "
+run " git clone https://github.com/hashmi3/TarFS.git "
 
 run ./unmount_make <br/> 
 This will create a "./mountdir" if not already there and run  Makefile.
