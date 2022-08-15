@@ -1,5 +1,5 @@
 # Tar Files Reader
- C library  that mounts uncompressed tar file using Libfuse.
+ C library for I/O operations on uncompressed tar files using Libfuse.
 
 ## Prerequisite
 Libfuse 3 must be installed 
