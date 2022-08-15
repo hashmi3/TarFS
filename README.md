@@ -4,7 +4,7 @@
 ## Prerequisite
 Libfuse 3 must be installed 
 
-## HOW TO MOUNT
+## HOW TO RUN
 Clone this repository.
 
 run " git clone https://github.com/hashmi3/TarFS.git "
